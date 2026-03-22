@@ -1,0 +1,17 @@
+C:\Users\Anvar\RiderProjects\Main\WebScraping\bin\Debug\net10.0\WebScraping.exe
+C:\Users\Anvar\RiderProjects\Main\WebScraping\bin\Debug\net10.0\WebScraping.deps.json
+C:\Users\Anvar\RiderProjects\Main\WebScraping\bin\Debug\net10.0\WebScraping.runtimeconfig.json
+C:\Users\Anvar\RiderProjects\Main\WebScraping\bin\Debug\net10.0\WebScraping.dll
+C:\Users\Anvar\RiderProjects\Main\WebScraping\bin\Debug\net10.0\WebScraping.pdb
+C:\Users\Anvar\RiderProjects\Main\WebScraping\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.csproj.AssemblyReference.cache
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.AssemblyInfoInputs.cache
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.AssemblyInfo.cs
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScrap.785AED5D.Up2Date
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.dll
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\refint\WebScraping.dll
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.pdb
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\WebScraping.genruntimeconfig.cache
+C:\Users\Anvar\RiderProjects\Main\WebScraping\obj\Debug\net10.0\ref\WebScraping.dll
